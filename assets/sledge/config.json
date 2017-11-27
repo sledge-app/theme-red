@@ -1,4 +1,5 @@
-{
+{  
+  "version": "1.0",  
   "foundation-palette": {
     "primary": {
       "value": "#1779ba",
