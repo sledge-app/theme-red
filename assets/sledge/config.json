@@ -2,7 +2,7 @@
   "version": "1.0",  
   "foundation-palette": {
     "primary": {
-      "value": "#FFF311",
+      "value": "#8F100D",
       "label": {
         "fr": "Primaire",
         "en": "Primary"
@@ -16,21 +16,21 @@
       }
     },
     "success": {
-      "value": "#6bc28b",
+      "value": "#1E8E26",
       "label": {
         "fr": "Succès",
         "en": "Success"
       }
     },
     "warning": {
-      "value": "#ffae00",
+      "value": "#D3CF47",
       "label": {
         "fr": "Information",
         "en": "Warning"
       }
     },
     "alert": {
-      "value": "#eb2842",
+      "value": "#D34B47",
       "label": {
         "fr": "Alerte",
         "en": "Alert"
@@ -105,12 +105,10 @@
     "wintry": "sd-back-27"
   },
   "fullColorList": [
-    "#FFF311",
+    "#8F100D",
 
     "#5e5d5d",
-    "#6bc28b",
-    "#ffae00",
-    "#eb2842",
+    "#D34B47",
 
     "#e6e6e6",
     "#cacaca",
@@ -118,28 +116,27 @@
     "#000000",
     "#ffffff",
 
-    "#FFFCCB",
-    "#FFF75D",
-    "#ECE100",
-    "#B4AB00",
-
-    "#33DF0F",
-    "#C4ECBB",
-    "#6ADE51",
-    "#22C500",
-    "#1A9600",
-
-    "#FF9E11",
-    "#FFEACB",
-    "#FFBD5D",
-    "#EC8C00",
-    "#B46B00",
-
-    "#711AC1",
-    "#C5AFD9",
-    "#884EBE",
-    "#56069F",
-    "#400279"
+    "#FFA5A3",
+    "#F57773",
+    "#B52A26",
+    
+    "#D3CF47",	/* Main Secondary color (1) */
+    "#FFFDA3",
+    "#F5F173",
+    "#B5B126",
+    "#8F8C0D",
+    
+    "#3C4C8F",	/* Main Secondary color (2) */
+    "#8794C6",
+    "#5968A7",
+    "#26377B",
+    "#132361",
+    
+    "#38A63F",	/* Main Complement color */
+    "#8BD990",
+    "#5BC161",
+    "#1E8E26",
+    "#0A7111"
   ]
 }
 
